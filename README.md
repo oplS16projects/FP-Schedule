@@ -1,7 +1,7 @@
 # Schedule
 | FP | Assignment | Repo | Due on |
 |:---:|:---|:---:|:---:|
-| 1 | Exploration 1     | oplS16projects/FP1 | TBD |
+| 1 | Exploration 1     | [oplS16projects/FP1][FP1] | TBD |
 | 2 | Exploration 2     | | TBD |
 | 3 | Team Declaration  | | TBD |
 | 4 | Project Proposal  | | TBD |
@@ -39,3 +39,5 @@
 
 14 points total, so each point is worth 1/14th of the Project grade, which is 25% of the final grade. So each point is approximately 1.8% of the final grade.
 
+<!-- Links -->
+[FP1]: https://github.com/oplS16projects/FP1
