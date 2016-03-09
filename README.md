@@ -1,7 +1,7 @@
 # Schedule
 | FP | Assignment | Repo | Due on |
 |:---:|:---|:---:|:---:|
-| 1 | Exploration 1     | [oplS16projects/FP1][FP1] | Friday, March 12, 2016 |
+| 1 | Exploration 1     | [oplS16projects/FP1][FP1] | Friday, March 11, 2016 |
 | 2 | Exploration 2     | | Wednesday, March 23, 2016 |
 | 3 | Team Declaration  | | Friday, March 25, 2016 |
 | 4 | Project Proposal  | | Friday, April 1, 2016 |
