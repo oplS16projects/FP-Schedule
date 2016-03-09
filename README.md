@@ -2,8 +2,8 @@
 | FP | Assignment | Repo | Due on |
 |:---:|:---|:---:|:---:|
 | 1 | Exploration 1     | [oplS16projects/FP1][FP1] | Friday, March 11, 2016 |
-| 2 | Exploration 2     | | Wednesday, March 23, 2016 |
-| 3 | Team Declaration  | | Friday, March 25, 2016 |
+| 2 | Exploration 2     | [oplS16projects/FP2][FP2]| Wednesday, March 23, 2016 |
+| 3 | Team Declaration  | [oplS16projects/FP3][FP3]| Friday, March 25, 2016 |
 | 4 | Project Proposal  | | Friday, April 1, 2016 |
 | L1 | Proposal Presentations | live in class | TBD: April 4-8 |
 | 5 | First Milestone   | | Friday, April 15 |
@@ -39,5 +39,12 @@
 
 14 points total, so each point is worth 1/14th of the Project grade, which is 25% of the final grade. So each point is approximately 1.8% of the final grade.
 
+# Team Rules
+* Team members must all be in the same course section
+* Teams of less than two members require explicit written permission
+* Teams of more than three people require explicit written permission
+
 <!-- Links -->
 [FP1]: https://github.com/oplS16projects/FP1
+[FP2]: https://github.com/oplS16projects/FP2
+[FP3]: https://github.com/oplS16projects/FP3
