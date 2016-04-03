@@ -4,7 +4,7 @@
 | 1 | Exploration 1     | [oplS16projects/FP1][FP1] | Friday, March 11, 2016 |
 | 2 | Exploration 2     | [oplS16projects/FP2][FP2]| Wednesday, March 23, 2016 |
 | 3 | Team Declaration  | [oplS16projects/FP3][FP3]| Friday, March 25, 2016 |
-| 4 | Project Proposal  | [oplS16projects/FP4][FP4]| Monday, April 4, 2016 |
+| 4 | Project Proposal  | [oplS16projects/FP4][FP4]| Wed Apr 6 (Martin sec); Thu Apr 7 (Sherman sec) |
 | L1 | Proposal Presentations | live in class | TBD: April 4-8 |
 | 5 | First Milestone   | | Friday, April 15 |
 | 6 | Second Milestone  | | Friday, April 22 |
