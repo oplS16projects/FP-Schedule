@@ -5,11 +5,11 @@
 | 2 | Exploration 2     | [oplS16projects/FP2][FP2]| Wednesday, March 23, 2016 |
 | 3 | Team Declaration  | [oplS16projects/FP3][FP3]| Friday, March 25, 2016 |
 | 4 | Project Proposal  | [oplS16projects/FP4][FP4]| Wed Apr 6 (Martin sec); Thu Apr 7 (Sherman sec) |
-| L1 | Proposal Presentations | live in class | TBD: April 4-8 |
+| L1 | Proposal Presentations | live in class | April 4-8 |
 | 5 | First Milestone   | | Friday, April 15 |
 | 6 | Second Milestone  | | Friday, April 22 |
-| 7 |	Web Page          | | Monday, April 25 |
-| L2 | Demonstrations    | live in the lobby | TBD: April 26-28 |
+| 7 |	Web Page          | [template][webt] | day of your demo, online and with printout |
+| L2 | Demonstrations    | live in 3rd floor OLS lobby | [schedule][projectindex] |
 | 8 | Final Code Turn-In | | Friday, April 29 |
 
 # Scoring and Grading
@@ -49,3 +49,5 @@
 [FP2]: https://github.com/oplS16projects/FP2
 [FP3]: https://github.com/oplS16projects/FP3
 [FP4]: https://github.com/oplS16projects/FP4-proposal
+[webt]: https://github.com/oplS15projects/FP7-webpage
+[projectindex]: http://www.cs.uml.edu/ecg/index.php/OPLspr16/Project
