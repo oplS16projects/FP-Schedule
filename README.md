@@ -49,5 +49,5 @@
 [FP2]: https://github.com/oplS16projects/FP2
 [FP3]: https://github.com/oplS16projects/FP3
 [FP4]: https://github.com/oplS16projects/FP4-proposal
-[webt]: https://github.com/oplS15projects/FP7-webpage
+[webt]: https://github.com/oplS16projects/FP7-webpage
 [projectindex]: http://www.cs.uml.edu/ecg/index.php/OPLspr16/Project
